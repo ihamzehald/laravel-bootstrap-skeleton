@@ -1,7 +1,7 @@
 
 ## Laravel - Bootstrap skeleton
 
-This project is an integration of  [this](https://bootstrapmade.com/demo/Bocor/) free bootstrap theme with Laravel.
+This project is an integration of  [Bocor](https://bootstrapmade.com/demo/Bocor/) free bootstrap theme with Laravel.
 ## How to install
 
 Clone the project
